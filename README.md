@@ -21,7 +21,7 @@ Given an integer input from 1 to 1000, output the word version of the number.
 
 ### Executing program
 
-* To the run the program navigate to CalorieCounting.cpp in the Solution Explorer
+* To the run the program navigate to NumToWord.cpp in the Solution Explorer
 * Navigate to Debug menu and select Start or f5 on windows.
 * Enter a number from 1 to 1000
 
