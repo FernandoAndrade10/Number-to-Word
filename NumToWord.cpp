@@ -65,7 +65,6 @@ void numConverter(int arr[], int size, int tnths[], int num2) {
 
 	if (size == 1)
 	{
-		cout << "////////////////////////" << endl;
 		cout << num2 << " is: " << singles[arr[0]] << endl;
 	}
 
